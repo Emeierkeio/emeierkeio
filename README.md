@@ -1,4 +1,3 @@
-![Peek 2020-07-09 15-53](https://github.com/Emeierkeio/emeierkeio/blob/main/github.gif)
 <h3 align="center">🎓 Graduated in Computer Science @  <a href='https://www.unibo.it/'>UNIBO</a> | 📊 Data Science student @ <a href='https://www.unimib.it/'>UNIMIB</a>
 
 ## About me
