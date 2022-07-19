@@ -8,16 +8,6 @@
 - [AWS Certified Machine Learning Specialty (MLS-C01)](https://www.udemy.com/course-dashboard-redirect/?course_id=992566)
 - [Deep Learning e Reti Neurali con Python: il Corso Completo](https://www.udemy.com/course-dashboard-redirect/?course_id=2114216)
 
-
-
-<p  align="center">
-  <img src="https://github.com/Emeierkeio/summary-cards/blob/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://github.com/Emeierkeio/summary-cards/blob/master/profile-summary-card-output/default/3-stats.svg">
-  <img src="https://github.com/Emeierkeio/summary-cards/blob/master/profile-summary-card-output/default/4-productive-time.svg"></br></p>
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric.
-
-
 ## Stuff I recommend
 
 <!-- BLOG-POST-LIST:START -->
