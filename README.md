@@ -28,8 +28,6 @@
 &nbsp;
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" width="80"/></a>
 &nbsp;
-<a href="https://github.com/" title="GitHub"><img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" width="80"/></a>
-&nbsp;
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="80"/></a>
 &nbsp;
 <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" width="80"/></a>
