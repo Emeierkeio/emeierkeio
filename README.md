@@ -31,7 +31,9 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="80"/></a>
 &nbsp;
 <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" width="80"/></a>
+&nbsp;
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" width="80"/></a>
+&nbsp;
 <a href="https://www.tableau.com/it-it" title="Tableau"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a>
 </p>
 
