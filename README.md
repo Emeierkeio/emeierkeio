@@ -49,10 +49,3 @@ making AI answers verifiable — who said what, where, and with what authority.
   <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" alt="Railway">
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX">
 </p>
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emeierkeio&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emeierkeio&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" alt="Top languages">
-</p>
