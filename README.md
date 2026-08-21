@@ -17,14 +17,14 @@ Data scientist working on **retrieval-augmented generation over knowledge graphs
 The goal is AI answers you can verify: who said it, and with what authority.
 
 - 🎓 MSc Data Science @ **University of Milano-Bicocca** · BSc Computer Science @ **University of Bologna**
-- 📄 First-author paper at **ISWC 2026 (In-Use Track)**: *Who Speaks Matters*
+- 📄 Two papers at **ISWC 2026**: *Who Speaks Matters* (In-Use Track, first author) and the **ParliamentRAG demo** (Posters & Demos)
 - 🌱 Currently exploring: semantic axes for political-position mapping, temporal stance evolution
 - 📍 Rome / Roseto degli Abruzzi / Milan, Italy
 
 ## 🏛️ Featured — ParliamentRAG
 
 > RAG over the debates of the Italian Chamber of Deputies, with retrieval weighted
-> by speaker authority. 45k+ full-text speeches and 6.3M individual votes; every
+> by speaker authority. 46k+ full-text speeches and 6.9M individual votes; every
 > citation is checked verbatim against the official record.
 
 <p>
@@ -32,7 +32,8 @@ The goal is AI answers you can verify: who said it, and with what authority.
   <a href="https://github.com/Emeierkeio/ParliamentRAG"><img src="https://img.shields.io/badge/source-Apache_2.0-0969DA?logo=github&logoColor=white" alt="Source"></a>
   <a href="https://doi.org/10.5281/zenodo.21560331"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21560331.svg" alt="Dataset DOI"></a>
   <a href="https://orkg.org/papers/R1909763"><img src="https://img.shields.io/badge/ORKG-R1909763-E86161" alt="ORKG"></a>
-  <a href="https://github.com/Emeierkeio/ParliamentRAG/blob/main/docs/Who_Speaks_Matters_ISWC2026-Camera_Ready_Draft.pdf"><img src="https://img.shields.io/badge/ISWC_2026-In--Use_Track-6A4C93" alt="ISWC 2026"></a>
+  <a href="https://github.com/Emeierkeio/ParliamentRAG/blob/main/docs/Who_Speaks_Matters_ISWC2026-Camera_Ready_Draft.pdf"><img src="https://img.shields.io/badge/ISWC_2026-In--Use_Track-6A4C93" alt="ISWC 2026 In-Use Track"></a>
+  <a href="https://www.parliamentrag.it/parliamentrag-demo-iswc2026.pdf"><img src="https://img.shields.io/badge/ISWC_2026-Demo-6A4C93" alt="ISWC 2026 Demo"></a>
 </p>
 
 ## 🧰 Stack
