@@ -1,52 +1,71 @@
-<h1 align="center">Ciao, I'm Mirko 👋</h1>
+# Mirko Tritella
 
-<p align="center">
-  <a href="https://github.com/Emeierkeio">
-    <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&duration=3200&pause=900&center=true&vCenter=true&width=620&color=58A6FF&lines=RAG+over+Knowledge+Graphs;Verifiable+AI+for+civic+information;Every+citation+checked+against+the+official+record" alt="Typing intro">
-  </a>
-</p>
+**I build AI tools that make public information easier to explore, understand and verify.**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mirko-tritella-4406361a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/tritella_mirko"><img src="https://img.shields.io/badge/@tritella__mirko-000000?logo=x&logoColor=white" alt="X"></a>
-  <a href="https://orcid.org/0009-0000-8611-8189"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="mailto:mirkotritella1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+I'm a researcher and engineer working on AI interfaces to official records and open government data, designed so that every answer can be traced back to its source. My work combines public data, information retrieval, knowledge graphs and language models to make institutional knowledge more accessible and verifiable.
 
-Data scientist working on **retrieval-augmented generation over knowledge graphs**.
-The goal is AI answers you can verify: who said it, and with what authority.
+**[Portfolio → emeierkeio.github.io](https://emeierkeio.github.io/)** · [GitHub](https://github.com/Emeierkeio) · [LinkedIn](https://www.linkedin.com/in/mirko-tritella-4406361a3) · [ORCID](https://orcid.org/0009-0000-8611-8189) · [Publications](https://emeierkeio.github.io/#publications)
 
-- 🎓 MSc Data Science @ **University of Milano-Bicocca** · BSc Computer Science @ **University of Bologna**
-- 📄 Two papers at **ISWC 2026**: *Who Speaks Matters* (In-Use Track, first author) and the **ParliamentRAG demo** (Posters & Demos)
-- 🌱 Currently exploring: semantic axes for political-position mapping, temporal stance evolution
-- 📍 Rome / Roseto degli Abruzzi / Milan, Italy
+## What I work on
 
-## 🏛️ Featured — ParliamentRAG
+- **Public information** — making large collections of institutional and public records easier to explore.
+- **Verifiable AI** — building systems where generated answers stay connected to evidence and sources.
+- **Knowledge representation** — using knowledge graphs and semantic relationships to preserve context: who said what, in which role, in which debate.
+- **Digital democracy** — exploring how better interfaces to public information can support transparency and informed participation.
 
-> RAG over the debates of the Italian Chamber of Deputies, with retrieval weighted
-> by speaker authority. 46k+ full-text speeches and 6.9M individual votes; every
-> citation is checked verbatim against the official record.
+## Featured — ParliamentRAG
 
-<p>
-  <a href="https://www.parliamentrag.it/"><img src="https://img.shields.io/badge/live_demo-parliamentrag.it-1E3A5F" alt="Live demo"></a>
-  <a href="https://github.com/Emeierkeio/ParliamentRAG"><img src="https://img.shields.io/badge/source-Apache_2.0-0969DA?logo=github&logoColor=white" alt="Source"></a>
-  <a href="https://doi.org/10.5281/zenodo.21560331"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21560331.svg" alt="Dataset DOI"></a>
-  <a href="https://orkg.org/papers/R1909763"><img src="https://img.shields.io/badge/ORKG-R1909763-E86161" alt="ORKG"></a>
-  <a href="https://github.com/Emeierkeio/ParliamentRAG/blob/main/docs/Who_Speaks_Matters_ISWC2026-Camera_Ready_Draft.pdf"><img src="https://img.shields.io/badge/ISWC_2026-In--Use_Track-6A4C93" alt="ISWC 2026 In-Use Track"></a>
-  <a href="https://www.parliamentrag.it/parliamentrag-demo-iswc2026.pdf"><img src="https://img.shields.io/badge/ISWC_2026-Demo-6A4C93" alt="ISWC 2026 Demo"></a>
-</p>
+An AI interface for exploring the Italian Parliament through its official records.
 
-## 🧰 Stack
+The Italian Chamber of Deputies publishes every plenary debate and every roll-call vote as open data. In principle, that record can answer almost any question about what parliament does; in practice, finding who said what means reading hundreds of pages. ParliamentRAG lets you ask in plain language: it retrieves the relevant speeches and votes, writes an answer that covers every parliamentary group, majority and opposition alike, and links each quotation back to the exact passage in the official record. Quotes that cannot be verified verbatim against their source are removed before the answer is shown.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white" alt="Neo4j">
-  <img src="https://img.shields.io/badge/RDF%20%2F%20SPARQL-3C88C3?logo=w3c&logoColor=white" alt="RDF / SPARQL">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" alt="Railway">
-  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX">
-</p>
+The principle behind it: **the answer should never be detached from the official record.**
+
+> 705 plenary sessions · 174k+ speech chunks · 17.3k roll-call votes · 6.9M individual vote records
+> XIX Legislature, updated continuously from official open data
+
+Under the hood: RAG · knowledge graphs · RDF/SPARQL · hybrid retrieval · authority-aware retrieval · citation verification · MCP
+
+[Live system](https://www.parliamentrag.it/) · [Source code](https://github.com/Emeierkeio/ParliamentRAG) · [Research paper](https://emeierkeio.github.io/papers/who-speaks-matters-iswc2026.pdf) · [Demo paper](https://emeierkeio.github.io/papers/parliamentrag-demo-iswc2026.pdf) · [Dataset](https://doi.org/10.5281/zenodo.21560331)
+
+## Why this matters
+
+Public institutions produce enormous amounts of digital information. AI can make that information easier to navigate, but generated answers should not become detached from the evidence behind them: a system that summarizes the public record without showing its sources replaces one opacity with another. I'm interested in building systems where retrieval, context and provenance remain visible parts of the interaction.
+
+The question driving this work: *how can AI make complex public information easier to understand without making it harder to verify?*
+
+## From open data to AI
+
+My work started with local public data. In Roseto degli Abruzzi, my home town, election results existed only as PDFs on the municipal website, so I extracted and republished them as machine-readable data ([opendata-roseto](https://github.com/Emeierkeio/opendata-roseto)); during the pandemic I built a site tracking the town's COVID-19 statistics day by day ([roseto-covid](https://github.com/Emeierkeio/roseto-covid)). ParliamentRAG asks the same question at national scale: how can public information become easier to access and use?
+
+## Research
+
+- How can AI answers remain connected to evidence?
+- How can knowledge graphs improve access to public information?
+- How should a system represent who is speaking, and in what context?
+- How should we evaluate AI systems that summarize public records, beyond simple answer accuracy?
+
+Topics: retrieval-augmented generation · information retrieval · knowledge graphs · semantic web · LLM evaluation. Currently exploring semantic axes for political-position mapping and how parliamentary stances evolve over time.
+
+## Publications
+
+**Who Speaks Matters: Authority-Aware Multi-View Retrieval-Augmented Generation over Italian Parliamentary Proceedings** — the research behind ParliamentRAG.
+Mirko Tritella, Riccardo Pozzi, Matteo Palmonari · ISWC 2026, In-Use Track · Springer, to appear
+[PDF](https://emeierkeio.github.io/papers/who-speaks-matters-iswc2026.pdf) · [Project](https://www.parliamentrag.it/) · [Dataset](https://doi.org/10.5281/zenodo.21560332) · [ORKG](https://orkg.org/papers/R1909763)
+
+**ParliamentRAG: An Authority-Aware Multi-View RAG System for Italian Parliamentary Proceedings**
+Mirko Tritella, Riccardo Pozzi, Matteo Palmonari · ISWC 2026, Posters & Demos · CEUR-WS, to appear
+[PDF](https://emeierkeio.github.io/papers/parliamentrag-demo-iswc2026.pdf) · [Live demo](https://www.parliamentrag.it/) · [Code](https://github.com/Emeierkeio/ParliamentRAG)
+
+## Tools I work with
+
+**AI / retrieval:** RAG · embeddings · LLMs · hybrid retrieval
+**Knowledge:** knowledge graphs · Neo4j · RDF · SPARQL
+**Engineering:** Python · FastAPI · Next.js · Docker · MCP
+
+---
+
+MSc Data Science, University of Milano-Bicocca · BSc Computer Science, University of Bologna
+Rome / Milan / Roseto degli Abruzzi · [mirkotritella1999@gmail.com](mailto:mirkotritella1999@gmail.com)
+
+**Explore the work → [emeierkeio.github.io](https://emeierkeio.github.io/)**
