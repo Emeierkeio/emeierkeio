@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="132" viewBox="0 0 200 132" role="img" aria-label="Stenografo, stenografo.it">
+<style>
+.s{fill:none;stroke:#14201c;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw .9s cubic-bezier(.65,0,.35,1) 0.12s forwards}
+.d{fill:#167a68;transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .45s cubic-bezier(.34,1.56,.64,1) 0.87s forwards}
+.n{font:600 18px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#14201c;letter-spacing:-.2px}
+.u{font:12px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;fill:#5e6b66}
+.t{opacity:0;animation:fade .5s ease-out 0.62s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pop{to{transform:scale(1)}}
+@keyframes fade{to{opacity:1}}
+@media (prefers-color-scheme:dark){.s{stroke:#ecf0ec}.d{fill:#55b29e}.n{fill:#ecf0ec}.u{fill:#9aa59f}}
+@media (prefers-reduced-motion:reduce){.s,.d,.t{animation:none;stroke-dashoffset:0;transform:none;opacity:1}}
+</style>
+<svg x="74" y="14" width="52" height="52" viewBox="3 4 56 58" overflow="visible"><path class="s" pathLength="1" d="M10 42C12 23 29 16 33.5 27C37 36 24 42 27.5 49.5C31 56.5 46 52 48.5 28" stroke-width="8"/><circle class="d" cx="50" cy="15" r="6.6"/></svg>
+<g class="t" text-anchor="middle"><text class="n" x="100" y="96">Stenografo</text><text class="u" x="100" y="117">stenografo.it</text></g>
+</svg>
