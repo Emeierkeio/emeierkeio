@@ -7,10 +7,10 @@ I work on AI interfaces to official records and open government data. Every answ
 [Website](https://emeierkeio.github.io/) · [LinkedIn](https://www.linkedin.com/in/mirko-tritella-4406361a3) · [ORCID](https://orcid.org/0009-0000-8611-8189) · [Publications](https://emeierkeio.github.io/#publications)
 
 <p align="center">
-  <a href="https://www.parliamentrag.it/"><img src="assets/card-parliamentrag.svg" width="200" height="132" alt="ParliamentRAG, research centre"></a>
-  <a href="https://www.stenografo.it/"><img src="assets/card-stenografo.svg" width="200" height="132" alt="Stenografo, stenografo.it"></a>
-  <a href="https://www.fascicoli.it/"><img src="assets/card-fascicoli.svg" width="200" height="132" alt="Fascicoli, fascicoli.it"></a>
-  <a href="https://www.scranno.it/"><img src="assets/card-scranno.svg" width="200" height="132" alt="Scranno, scranno.it"></a>
+  <a href="https://www.parliamentrag.it/"><img src="assets/card-parliamentrag.svg" width="200" height="132" alt=""></a>
+  <a href="https://www.stenografo.it/"><img src="assets/card-stenografo.svg" width="200" height="132" alt=""></a>
+  <a href="https://www.fascicoli.it/"><img src="assets/card-fascicoli.svg" width="200" height="132" alt=""></a>
+  <a href="https://www.scranno.it/"><img src="assets/card-scranno.svg" width="200" height="132" alt=""></a>
 </p>
 
 ## ParliamentRAG
