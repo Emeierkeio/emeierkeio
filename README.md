@@ -73,4 +73,4 @@ I started with local public data. In Roseto degli Abruzzi, my home town, electio
 ---
 
 MSc Data Science, University of Milano-Bicocca · BSc Computer Science, University of Bologna  
-Rome / Milan / Roseto degli Abruzzi · [mirkotritella1999@gmail.com](mailto:mirkotritella1999@gmail.com)
+Rome / Milan / Roseto degli Abruzzi · [mirko.tritella@parliamentrag.it](mailto:mirko.tritella@parliamentrag.it)
