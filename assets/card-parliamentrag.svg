@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="280" height="64" viewBox="0 0 280 64" role="img" aria-label="ParliamentRAG, www.parliamentrag.it">
 <style>
 .s{fill:none;stroke:#12171a;stroke-linecap:round}
-.d{fill:#2D5F8F}
+.d{fill:#12171a}
 .n{font:600 26px "Schibsted Grotesk",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#12171a;letter-spacing:-.6px}
-@media (prefers-color-scheme:dark){.s{stroke:#eceae4}.d{fill:#7AA6D2}.n{fill:#eceae4}}
+@media (prefers-color-scheme:dark){.s{stroke:#eceae4}.d{fill:#eceae4}.n{fill:#eceae4}}
 </style>
 <svg x="8" y="14" width="46" height="36" viewBox="15 15 194 153"><path class="s" d="M 35.91 139.73 A 81 81 0 1 1 188.09 139.73" stroke-width="32"/><circle class="d" cx="112" cy="146" r="22"/></svg>
 <text class="n" x="66" y="42">ParliamentRAG</text>
