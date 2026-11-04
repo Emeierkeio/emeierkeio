@@ -27,7 +27,7 @@ Everything lives at [www.parliamentrag.it](https://www.parliamentrag.it/): a cha
 
 **Stack:** RAG · PostgreSQL + pgvector · hybrid retrieval · authority-aware retrieval · citation verification · MCP
 
-[Website](https://www.parliamentrag.it/) · [ISWC demo](https://truthful-amazement-production.up.railway.app/) · [Research code](https://github.com/Emeierkeio/ParliamentRAG) · [Dataset](https://doi.org/10.5281/zenodo.21560331)
+[Website](https://www.parliamentrag.it/) · [ISWC demo](https://truthful-amazement-production.up.railway.app/) · [Code](https://github.com/Emeierkeio/ParliamentRAG) · [Dataset](https://doi.org/10.5281/zenodo.21560331)
 
 ## Publications
 
@@ -37,7 +37,7 @@ Mirko Tritella, Riccardo Pozzi, Matteo Palmonari · ISWC 2026, In-Use Track · S
 
 **ParliamentRAG: An Authority-Aware Multi-View RAG System for Italian Parliamentary Proceedings**  
 Mirko Tritella, Riccardo Pozzi, Matteo Palmonari · ISWC 2026, Posters & Demos · CEUR-WS, to appear  
-[PDF](https://emeierkeio.github.io/papers/parliamentrag-demo-iswc2026.pdf) · [Live demo](https://truthful-amazement-production.up.railway.app/) · [Code](https://github.com/Emeierkeio/ParliamentRAG)
+[PDF](https://emeierkeio.github.io/papers/parliamentrag-demo-iswc2026.pdf) · [Live demo](https://truthful-amazement-production.up.railway.app/) · [Code](https://doi.org/10.5281/zenodo.23173703)
 
 ## Research
 
