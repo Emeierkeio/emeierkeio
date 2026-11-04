@@ -7,34 +7,27 @@ I work on AI interfaces to official records and open government data. Every answ
 [Website](https://emeierkeio.github.io/) · [LinkedIn](https://www.linkedin.com/in/mirko-tritella-4406361a3) · [ORCID](https://orcid.org/0009-0000-8611-8189) · [Publications](https://emeierkeio.github.io/#publications)
 
 <p align="center">
-  <a href="https://www.parliamentrag.it/"><img src="assets/card-parliamentrag.svg" width="200" height="132" alt=""></a>
-  <a href="https://www.stenografo.it/"><img src="assets/card-stenografo.svg" width="200" height="132" alt=""></a>
-  <a href="https://www.fascicoli.it/"><img src="assets/card-fascicoli.svg" width="200" height="132" alt=""></a>
-  <a href="https://www.scranno.it/"><img src="assets/card-scranno.svg" width="200" height="132" alt=""></a>
+  <a href="https://www.parliamentrag.it/"><img src="assets/card-parliamentrag.svg" width="200" height="132" alt="ParliamentRAG"></a>
 </p>
 
 ## ParliamentRAG
 
-A research centre on the official records of the Italian Parliament, started at the University of Milano-Bicocca. Its research appears at ISWC 2026, in the In-Use Track and in Posters & Demos.
+A research project on the official records of the Italian Parliament, started at the University of Milano-Bicocca. Its research appears at ISWC 2026, in the In-Use Track and in Posters & Demos.
 
-The Italian Chamber of Deputies publishes every plenary debate and every roll-call vote as open data. That record answers most questions about what parliament does, but finding who said what means reading hundreds of pages. ParliamentRAG turns the record into a knowledge graph and builds answers that keep three guarantees:
+Parliament publishes every debate, act and roll-call vote as open data. That record answers most questions about what Parliament does, but finding who said what means reading hundreds of pages. ParliamentRAG organises the record so you can ask a question in plain language and check the answer. Every answer keeps three guarantees:
 
-1. **Every parliamentary group.** Majority and opposition both appear. When a group never spoke on the topic, the answer says so.
-2. **Authoritative speakers.** An authority model ranks deputies on the topic by their speeches, acts, committee seats and roles.
-3. **Exact quotes with official links.** Each quotation links to its passage in the stenographic record. A check drops any quote that does not match the source verbatim before you read it.
+1. **Every parliamentary group.** Majority and opposition both appear, and each component of the Mixed Group counts on its own. When a group never spoke on the topic, the answer says so.
+2. **Authoritative speakers.** An authority model ranks members on the topic by their speeches, acts, committee seats and roles.
+3. **Exact quotes with official links.** Each quotation links to its passage in the official record. A check drops any quote that does not match the source word for word before you read it.
 
-The data and the method that checks these guarantees are open. The applications built on top are separate products:
+Everything lives at [www.parliamentrag.it](https://www.parliamentrag.it/): a chat, a dossier per topic with what each group said and how it voted, every roll-call vote seat by seat, amendments, member profiles, an open API and an MCP server for AI assistants. It runs on our own server in Europe and updates every night from official open data.
 
-- **[Stenografo](https://www.stenografo.it/)** answers precise questions (how did a deputy vote, who chairs a committee) and links each sentence to its source.
-- **[Fascicoli](https://www.fascicoli.it/)** builds one dossier per topic: what each group says and how it votes.
-- **[Scranno](https://www.scranno.it/)** shows the Chamber in 3D, with every deputy in their real seat.
+> 1,207 plenary sittings · 469k speeches · 50k acts · 28.7k roll-call votes · 9.7M individual votes · 230k amendments  
+> XIX Legislature, from October 2022 to today
 
-> 719 plenary sessions · 177k+ speech chunks · 36.7k parliamentary acts · 17.5k roll-call votes · 7M individual vote records  
-> XIX Legislature, updated from official open data
+**Stack:** RAG · PostgreSQL + pgvector · hybrid retrieval · authority-aware retrieval · citation verification · MCP
 
-**Stack:** RAG · knowledge graphs · RDF/SPARQL · hybrid retrieval · authority-aware retrieval · citation verification · MCP
-
-[Research centre](https://www.parliamentrag.it/) · [ISWC demo](https://truthful-amazement-production.up.railway.app/) · [Research code](https://github.com/Emeierkeio/ParliamentRAG) · [Dataset](https://doi.org/10.5281/zenodo.21560331)
+[Website](https://www.parliamentrag.it/) · [ISWC demo](https://truthful-amazement-production.up.railway.app/) · [Research code](https://github.com/Emeierkeio/ParliamentRAG) · [Dataset](https://doi.org/10.5281/zenodo.21560331)
 
 ## Publications
 
@@ -67,8 +60,8 @@ I started with local public data. In Roseto degli Abruzzi, my home town, electio
 ## Tools I work with
 
 **AI and retrieval:** RAG · embeddings · LLMs · hybrid retrieval  
-**Knowledge:** knowledge graphs · Neo4j · RDF · SPARQL  
-**Engineering:** Python · FastAPI · Next.js · Docker · MCP
+**Knowledge:** knowledge graphs · RDF · SPARQL · PostgreSQL · pgvector  
+**Engineering:** Python · FastAPI · Docker · MCP
 
 ---
 
