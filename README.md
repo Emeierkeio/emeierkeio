@@ -25,6 +25,11 @@ Everything lives at [www.parliamentrag.it](https://www.parliamentrag.it/): a cha
 > 1,207 plenary sittings · 469k speeches · 50k acts · 28.7k roll-call votes · 9.7M individual votes · 230k amendments  
 > XIX Legislature, from October 2022 to today
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/grafo-scuro.png">
+  <img alt="Schema of the ParliamentRAG graph: people and bodies, sittings and business, votes and acts, with the relations between them" src="assets/grafo-chiaro.png">
+</picture>
+
 **Stack:** RAG · PostgreSQL + pgvector · hybrid retrieval · authority-aware retrieval · citation verification · MCP
 
 [Website](https://www.parliamentrag.it/) · [ISWC demo](https://truthful-amazement-production.up.railway.app/) · [Code](https://github.com/Emeierkeio/ParliamentRAG) · [Dataset](https://doi.org/10.5281/zenodo.21560331)
