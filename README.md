@@ -4,7 +4,7 @@
 
 I work on AI interfaces to official records and open government data. Every answer these systems give links back to its source. The work combines public data, information retrieval, knowledge graphs and language models.
 
-[Website](https://emeierkeio.github.io/) · [LinkedIn](https://www.linkedin.com/in/mirko-tritella-4406361a3) · [ORCID](https://orcid.org/0009-0000-8611-8189) · [Publications](https://emeierkeio.github.io/#publications)
+[Website](https://emeierkeio.github.io/) · [LinkedIn](https://www.linkedin.com/in/mirko-tritella-4406951a3) · [ORCID](https://orcid.org/0009-0000-8611-8189) · [Publications](https://emeierkeio.github.io/#publications)
 
 <p align="center">
   <a href="https://www.parliamentrag.it/"><img src="assets/card-parliamentrag.svg" width="280" height="64" alt="ParliamentRAG"></a>
@@ -32,7 +32,7 @@ Everything lives at [www.parliamentrag.it](https://www.parliamentrag.it/): a cha
 
 **Stack:** RAG · PostgreSQL + pgvector · hybrid retrieval · authority-aware retrieval · citation verification · MCP
 
-[Website](https://www.parliamentrag.it/) · [ISWC demo](https://truthful-amazement-production.up.railway.app/) · [Code](https://github.com/Emeierkeio/ParliamentRAG) · [Dataset](https://doi.org/10.5281/zenodo.21560331)
+[Website](https://www.parliamentrag.it/) · [Code](https://github.com/Emeierkeio/ParliamentRAG) · [Dataset](https://doi.org/10.5281/zenodo.21560331)
 
 ## Publications
 
@@ -42,7 +42,7 @@ Mirko Tritella, Riccardo Pozzi, Matteo Palmonari · ISWC 2026, In-Use Track · S
 
 **ParliamentRAG: An Authority-Aware Multi-View RAG System for Italian Parliamentary Proceedings**  
 Mirko Tritella, Riccardo Pozzi, Matteo Palmonari · ISWC 2026, Posters & Demos · CEUR-WS, to appear  
-[PDF](https://emeierkeio.github.io/papers/parliamentrag-demo-iswc2026.pdf) · [Live demo](https://truthful-amazement-production.up.railway.app/) · [Code](https://doi.org/10.5281/zenodo.23173703)
+[PDF](https://emeierkeio.github.io/papers/parliamentrag-demo-iswc2026.pdf) · [Live system](https://www.parliamentrag.it/) · [Code](https://doi.org/10.5281/zenodo.23173703)
 
 ## Research
 
