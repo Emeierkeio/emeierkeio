@@ -20,7 +20,7 @@ Parliament publishes every debate, act and roll-call vote as open data. That rec
 2. **Authoritative speakers.** An authority model ranks members on the topic by their speeches, acts, committee seats and roles.
 3. **Exact quotes with official links.** Each quotation links to its passage in the official record. A check drops any quote that does not match the source word for word before you read it.
 
-Everything lives at [www.parliamentrag.it](https://www.parliamentrag.it/): a chat, a dossier per topic with what each group said and how it voted, every roll-call vote seat by seat, amendments, an agenda of sittings and amendment deadlines, member profiles, an open API and an MCP server for AI assistants. It runs on our own server in Europe and updates every night from official open data.
+Everything lives at [www.parliamentrag.it](https://www.parliamentrag.it/): a chat, a dossier per topic with what each group said and how it voted, every roll-call vote seat by seat, amendments, an agenda of sittings and amendment deadlines, committee hearings and opinions, member profiles, an open API and an MCP server for AI assistants. It runs on our own server in Europe and updates every night from official open data.
 
 > 1,207 plenary sittings · 469k speeches · 50k acts · 28.7k roll-call votes · 9.7M individual votes · 230k amendments  
 > XIX Legislature, from October 2022 to today
